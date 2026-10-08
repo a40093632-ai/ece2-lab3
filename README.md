@@ -40,10 +40,10 @@ Vivado 결과, bitstream 및 실제 보드 증빙은 실험 후 추가할 예정
 
 | Experiment | Source | Vivado evidence | Bitstream | Board photo | Board video |
 |---|---|---|---|---|---|
-| 19. LED PWM | [Source](lab3_19_led_pwm/) | [Vivado](evidence/19/vivado/) | [BIT](artifacts/bit/lab3_19_led_pwm.bit) | [Photo](evidence/19/board/photos/demo_capture.png) | [Video](evidence/19/board/videos/demo.mp4) |
-| 20. RGB PWM | [Source](lab3_20_rgb_pwm/) | [Vivado](evidence/20/vivado/) | [BIT](artifacts/bit/lab3_20_rgb_pwm.bit) | [Photo](evidence/20/board/photos/demo_capture.png) | [Video](evidence/20/board/videos/demo.mp4) |
-| 21. Piezo | [Source](lab3_21_piezo/) | [Vivado](evidence/21/vivado/) | [BIT](artifacts/bit/lab3_21_piezo.bit) | [Photo](evidence/21/board/photos/demo_capture.png) | [Video](evidence/21/board/videos/demo.mp4) |
-| 22. Stepper | [Source](lab3_22_stepper/) | [Vivado](evidence/22/vivado/) | [BIT](artifacts/bit/lab3_22_stepper.bit) | [Photo](evidence/22/board/photos/demo_capture.png) | [Video](evidence/22/board/videos/demo.mp4) |
-| 23. MMSS Clock | [Source](lab3_23_mmss_clock/) | [Vivado](evidence/23/vivado/) | [BIT](artifacts/bit/lab3_23_mmss_clock.bit) | [Photo](evidence/23/board/photos/demo_capture.png) | [Video](evidence/23/board/videos/demo.mp4) |
-| 24. Character LCD | [Source](lab3_24_character_lcd/) | [Vivado](evidence/24/vivado/) | [BIT](artifacts/bit/lab3_24_character_lcd.bit) | [Photo](evidence/24/board/photos/demo_capture.png) | [Video](evidence/24/board/videos/demo.mp4) |
-| 25. UART Echo | [Source](lab3_25_uart_echo/) | [Vivado](evidence/25/vivado/) | [BIT](artifacts/bit/lab3_25_uart_echo.bit) | [Photo](evidence/25/board/photos/demo_capture.png) | [Video](evidence/25/board/videos/demo.mp4) 
+| 19. LED PWM | [Source](lab3_19_led_pwm/) | [Vivado](evidence/19/vivado/) | [BIT](artifacts/bit/lab3_19_led_pwm.bit) | [Photo](<evidence/19/board/photos/실험19 시연 사진.png>) | [Video](<evidence/19/board/videos/실험19 시연 영상.mp4>) |
+| 20. RGB PWM | [Source](lab3_20_rgb_pwm/) | [Vivado](evidence/20/vivado/) | [BIT](artifacts/bit/lab3_20_rgb_pwm.bit) | [Photo](<evidence/20/board/photos/실험20 시연 사진.png>) | [Video](<evidence/20/board/videos/실험20 시연 영상.mp4>) |
+| 21. Piezo | [Source](lab3_21_piezo/) | [Vivado](evidence/21/vivado/) | [BIT](artifacts/bit/lab3_21_piezo.bit) | [Photo](<evidence/21/board/photos/실험21 시연 사진.png>) | [Video](<evidence/21/board/videos/실험21 시연 영상.mp4>) |
+| 22. Stepper | [Source](lab3_22_stepper/) | [Vivado](evidence/22/vivado/) | [BIT](artifacts/bit/lab3_22_stepper.bit) | [Photo](<evidence/22/board/photos/실험22 시연 사진.png>) | [Video](<evidence/22/board/videos/실험22 시연 영상.mp4>) |
+| 23. MMSS Clock | [Source](lab3_23_mmss_clock/) | [Vivado](evidence/23/vivado/) | [BIT](artifacts/bit/lab3_23_mmss_clock.bit) | [Photo](<evidence/23/board/photos/실험23 시연 사진.png>) | [Video](<evidence/23/board/videos/실험23 시연 영상.mp4>) |
+| 24. Character LCD | [Source](lab3_24_character_lcd/) | [Vivado](evidence/24/vivado/) | [BIT](artifacts/bit/lab3_24_character_lcd.bit) | [Photo](<evidence/24/board/photos/실험24 시연 사진.png>) | [Video](<evidence/24/board/videos/실험24 시연 영상.mp4>) |
+| 25. UART Echo | [Source](lab3_25_uart_echo/) | [Vivado](evidence/25/vivado/) | [BIT](artifacts/bit/lab3_25_uart_echo.bit) | [Photo 1](<evidence/25/board/photos/실험25 시연 사진(1).png>) · [Photo 2](<evidence/25/board/photos/실험25 시연 사진(2).jpg>) | [Video](<evidence/25/board/videos/실험25 시연 영상.mp4>) 
