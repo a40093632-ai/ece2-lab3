@@ -29,12 +29,12 @@
 
 ## 제출 기준
 
-- 제출 태그: [lab3-pre-v1](https://github.com/a40093632-ai/ece2-lab3/tree/lab3-pre-v1)
-- 기준 커밋: [26acfe878b6d7e0b0355c3be7cb1d638fb124d1c](https://github.com/a40093632-ai/ece2-lab3/commit/26acfe878b6d7e0b0355c3be7cb1d638fb124d1c)
+- 실험 전 태그: [lab3-pre-v1](https://github.com/a40093632-ai/ece2-lab3/tree/lab3-pre-v1)
+- 실험 전 기준 커밋: [26acfe878b6d7e0b0355c3be7cb1d638fb124d1c](https://github.com/a40093632-ai/ece2-lab3/commit/26acfe878b6d7e0b0355c3be7cb1d638fb124d1c)
+- 실험 후 태그: [lab3-post-v1](https://github.com/a40093632-ai/ece2-lab3/tree/lab3-post-v1)
+- 실험 후 기준 커밋: [02e15bf67cdef273fe04e3bc0ae515ed288e87ef](https://github.com/a40093632-ai/ece2-lab3/commit/02e15bf67cdef273fe04e3bc0ae515ed288e87ef)
 
-Vivado 결과, bitstream 및 실제 보드 증빙은 실험 후 추가할 예정이다.
-
-
+Vivado 결과, bitstream 및 실제 보드 증빙은 아래 Post-lab Evidence 표에 정리하였다.
 
 ## Post-lab Evidence
 
